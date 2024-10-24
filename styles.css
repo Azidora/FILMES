@@ -1,6 +1,6 @@
 body   {
     color: rgb(253, 0, 0, 0.623);
-    background: rgb(85, 168, 29) ;
+    background: rgb(255, 196, 35) ;
     margin: 0px;
        }
        header {
@@ -48,7 +48,7 @@ body   {
     
     .categoria-videos img:hover {
         opacity: 1.0;
-        border: 3px solid rgb(236, 203, 15);
+        border: 3px solid rgb(22, 209, 47);
     }
     
     .categoria h2 {
